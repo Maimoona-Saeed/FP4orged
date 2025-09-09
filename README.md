@@ -1,0 +1,2 @@
+(in process)
+Advanced FP4 Quantization Pipeline for Efficient Multi-Modal LLMs on NVIDIA GPUs. Optimizes models like LLaVA-1.5-7B using PyTorch and Hugging Face Transformers, achieving 2-4x inference speedups and ~50% memory reduction with <5% accuracy loss via stochastic rounding, calibration, and group-wise scaling. Includes benchmarks (latency, memory, perplexity), ONNX export for TensorRT-LLM, and vLLM integration for scalable deployments. Ideal for edge/cloud AI applications.
